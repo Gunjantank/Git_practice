@@ -1,1 +1,2 @@
 second file for git 
+adding more content to in file 2 
