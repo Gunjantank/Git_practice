@@ -1,2 +1,3 @@
 i am a new file which will be used to fix the bug 
 fixed another bug 
+third bug fix 
