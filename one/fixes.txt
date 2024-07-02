@@ -3,3 +3,5 @@ fixed another bug
 third bug fix   
 fourth bug fix 
 fifth bug fixed 
+
+another fix message for pinkmode 
